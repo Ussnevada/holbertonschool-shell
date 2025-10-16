@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod a+x 5-execute 
+chmod y+x 5-execute 
+
